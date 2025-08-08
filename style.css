@@ -1,0 +1,22 @@
+/* Navbar custom background */
+.navbar {
+  margin-bottom: 0;
+}
+
+/* Mobile menu background */
+.navbar-nav {
+  background-color: #ddd;
+}
+
+/* Main content section */
+.content-box {
+  background-color: #aaa; /* grey background as per mockup */
+  padding: 15px;
+  margin-bottom: 30px;
+  min-height: 1000px; /* tall section to allow scrolling */
+}
+
+/* Adjust paragraph text */
+.content-box p {
+  text-align: justify;
+}
